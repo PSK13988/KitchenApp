@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938987395766",
+    "firebase_url": "https://welcomekitchen-3212a.firebaseio.com",
+    "project_id": "welcomekitchen-3212a",
+    "storage_bucket": "welcomekitchen-3212a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938987395766:android:eb159089ca3021ff3e6417",
+        "android_client_info": {
+          "package_name": "com.welcomekitchen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938987395766-jpaq8g0i1kt2p7ga942eo05nuefa7k4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-SiJtRgTdEVLJ9Iw5mWDe8nFrgNT_uXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938987395766-jpaq8g0i1kt2p7ga942eo05nuefa7k4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
